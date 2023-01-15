@@ -1,0 +1,4 @@
+stm32g0_456_lqfp32.ibs => stm32g051_061_wlcsp20.ibs 
+
+nom package: lqfp32  
+if nom packafge
